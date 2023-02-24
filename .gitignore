@@ -1,5 +1,7 @@
+.idea/
 .database/
 docs/
 
 .env
 main
+.DS_Store
